@@ -70,7 +70,7 @@ def get_email_info():
         get_email_info()
 
     else:
-        talk("Ok lasy a**! Bye.")
+        talk("Ok [USER]! Bye.")
 
 
 get_email_info()
